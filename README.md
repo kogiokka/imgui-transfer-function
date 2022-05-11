@@ -6,6 +6,8 @@ An ImGui transfer function widget for volume rendering.
 
 ## Usage
 
+Left-click on the handles to select and drag, and right-click on them to remove.
+
 Example snippet:
 
 ```cpp
